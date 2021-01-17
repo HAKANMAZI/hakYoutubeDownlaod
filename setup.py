@@ -7,8 +7,8 @@ setuptools.setup(
     name="hakYoutubeDownlaod", # Replace with your own username
     version="0.0.1",
     author="hakan ",
-    author_email="hak122hak@gmail.com",
-    description="Hızlı bir şekilde youtubeden videolar indirmek",
+    author_email="hak@gmail.com",
+    description="youtube video indir",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/HAKANMAZI/hakYoutubeDownlaod",
